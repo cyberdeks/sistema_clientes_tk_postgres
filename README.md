@@ -16,7 +16,7 @@ O sistema permite:
 
 Além disso, possui **mensagens visuais**, **confirmação de exclusão** e **layout profissional** com `grid()` e lista com scroll.
 
----
+![Home](screenshot.jpg)
 
 ## Funcionalidades
 
