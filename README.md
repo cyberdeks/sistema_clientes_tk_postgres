@@ -39,5 +39,3 @@ Além disso, possui **mensagens visuais**, **confirmação de exclusão** e **la
 
 ```bash
 pip install psycopg2
-
-![Tela Principal](screenshot.jpg)
